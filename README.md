@@ -1,6 +1,6 @@
 ### About
 
-Hiya! 👋 I'm Toggy Smith, an 18-year-old programmer from the UK 🇬🇧 currently enjoying my summer and looking for a part-time job after having completed my A-levels. In September, I'll be heading off to university to complete a computer science degree with a year abroad. My firm choice is King's College London and my insurance choice is Westminster University.
+Hiya! 👋 I'm Toggy Smith, an 18-year-old programmer from the UK 🇬🇧  currently enjoying my summer and looking for a part-time job after having completed my A-levels. In September, I'll be heading off to university to complete a computer science degree with a year abroad. My firm choice is King's College London and my insurance choice is Westminster University.
 
 My two most experienced fields of expertise are programming in C++ and using the Godot game engine. Currently, I'm starting a YouTube channel to teach people how to create things in Godot.
 
