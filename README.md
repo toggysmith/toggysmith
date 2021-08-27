@@ -1,6 +1,6 @@
 ### About
 
-Hiya! 👋 I'm Toggy Smith, an 18-year-old programmer from the UK currently enjoying my summer and looking for a part-time job after having completed my A-levels. I'm an incoming King's College London undergraduate getting ready to start Computer Science with a Year Abroad.
+Hiya! 👋 I'm Toggy Smith, an 18-year-old programmer from the UK and I'm currently studying [Computer Science with a Year Abroad BSc](https://www.kcl.ac.uk/study/undergraduate/courses/computer-science-with-a-year-abroad-bsc "Computer Science with a Year Abroad BSc") at King's College London.
 
 My two most experienced fields of expertise are programming in C++ and using the Godot game engine.
 
@@ -15,7 +15,25 @@ Languages:
 - Rust
 - JS, HTML & CSS
 
-I studied computer science (A*), politics (A*) and mathematics (A) at A-level. In my GCSEs, I received five 9's, two 8's, two 7's and one B. I also completed a cyber security EPQ (CyberEPQ) when I was just 14 (the youngest on the course), achieving a C.
+A-levels (at St. Thomas More High School for Boys, Westcliff-on-Sea):
+- Computer Science (A*)
+- Politics (A*)
+- Mathematics (A)
+
+
+GCSEs (at St. Thomas More High School for Boys, Westcliff-on-Sea):
+- Computer Science (9)
+- Combined Science: Trilogy (9 & 9)
+- Geography (9)
+- Business (9)
+- Mathematics (8)
+- English Literature (8)
+- English Language (7)
+- Religious Studies (7)
+- CiDA (Certificate in Digital Applications) (B)
+
+Extra-curricular:
+- [Qufaro CyberEPQ](https://cyberepq.org.uk/ "Qufaro CyberEPQ") (C)
 
 ### Contact
 
