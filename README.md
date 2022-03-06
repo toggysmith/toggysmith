@@ -14,6 +14,7 @@ I'm an aspiring software developer and undergraduate student at King's College L
 
 - [Full Stack Engineer Career Path on Codecademy](https://www.codecademy.com/learn/paths/full-stack-engineer-career-path): I have an interest in building desktop apps with Electron.js so I'm learning foundational knowledge like JavaScript, HTML, CSS, React.js, etc.
 - [Analyze Data with SQL Skill Path on Codecademy](https://www.codecademy.com/learn/paths/analyze-data-with-sql): I'm practising SQL which I'm learning at King's because I struggle with a lack of actual practice and I believe SQL is a useful skill in any computer science field.
+- [Pass the Technical Interview with Java](https://www.codecademy.com/learn/paths/pass-the-technical-interview-with-java): I'm learning more about data structures to solidify my understanding as I consider them important to every programmer.
 
 # 👉 My projects...
 
