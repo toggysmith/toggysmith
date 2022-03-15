@@ -8,6 +8,7 @@ I'm an aspiring software developer and undergraduate student at King's College L
 
 # 👉 I'm working on...
 
+- My current assignment which is to create a property viewer based on an Airbnb database of properties in London boroughs. We are using Java and JavaFX, and working in teams of four.
 - Getting prepared for my next assignment by getting more familiar with IntelliJ IDEA, GitHub Desktop and best practices like the [Conventional Commit Style](https://www.conventionalcommits.org/en/v1.0.0/).
 
 # 👉 I'm learning...
