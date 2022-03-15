@@ -18,7 +18,7 @@ I'm an aspiring software developer and undergraduate student at King's College L
 
 # 👉 My projects...
 
-During my time at King's, I've had the opportunity to work with a lot of great teams and a lot of our projects feature on here. I also have many of my own projects; I'm still learning and would appreciate any feedback. I've included some of my favourite projects below:
+During my time at King's, I've had the opportunity to work with a lot of great teams and a lot of our projects feature on here. You can find any projects done at King's on my [assignments](https://github.com/toggysmith/toggysmith/blob/main/assignments.md) page. I also have many of my own projects; I'm still learning and would appreciate any feedback. I've included some of my favourite projects below:
 
 - [Predator and Prey Simulation](https://github.com/toggysmith/predator-and-prey-simulation)
 - [Circle Dodger](https://github.com/toggysmith/Circle-Dodger)
