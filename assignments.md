@@ -12,6 +12,7 @@ As a student, I am always continuing to learn and would appreciate any feedback.
 
 | Year | Semester | Module | Assignment |
 |:----:|:--------:|:------:|:----------:|
+| 1 | 2 | 4CSS1PPA (Programming Practice & Applications) | [Assignment 4: Airbnb Property Viewer](https://github.kcl.ac.uk/k21064940/airbnb) |
 | 1 | 2 | 4CCS1PPA (Programming Practice & Applications) | [Assignment 3: Predator & Prey Simulation](https://github.com/toggysmith/predator-and-prey-simulation) |
 
 <sub>We were not given any assignments in semester 1 of year 2.</sub>
