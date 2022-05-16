@@ -8,15 +8,11 @@ I'm an aspiring software developer and undergraduate student at King's College L
 
 # 👉 I'm working on...
 
-- My [personal website](https://toggysmith.github.io/) which will have a showcase of some of my favourite projects. I'm using SCSS, CSS, JS, HTML and Bulma to build it.
-- [SBPL](https://github.com/toggysmith/stack-based-programming-language) which is a programming language I'm making to learn Kotlin and how compilers/interpreters work.
-- Revising for my upcoming exams.
+- Recreating my personal website using React and Material UI.
 
 # 👉 I'm learning...
 
-- [Full Stack Engineer Career Path on Codecademy](https://www.codecademy.com/learn/paths/full-stack-engineer-career-path): I have an interest in building desktop apps with Electron.js so I'm learning foundational knowledge like JavaScript, HTML, CSS, React.js, etc.
-- [Analyze Data with SQL Skill Path on Codecademy](https://www.codecademy.com/learn/paths/analyze-data-with-sql): I'm practising SQL which I'm learning at King's because I struggle with a lack of actual practice and I believe SQL is a useful skill in any computer science field.
-- [Pass the Technical Interview with Java](https://www.codecademy.com/learn/paths/pass-the-technical-interview-with-java): I'm learning more about data structures to solidify my understanding as I consider them important to every programmer.
+- JavaScript from scratch using [this excellent tutorial](https://javascript.info) to fill any gaps in my knowledge/understanding.
 
 # 👉 My projects...
 
