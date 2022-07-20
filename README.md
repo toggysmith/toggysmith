@@ -8,18 +8,9 @@ I'm an aspiring software developer and undergraduate student at King's College L
 
 # 👉 I'm working on...
 
-- Recreating my personal website using React and Material UI.
+- [Pomobyte](https://pomobyte.com)
+- A Discord-like chat app called Loqui.
 
 # 👉 I'm learning...
 
 - JavaScript from scratch using [this excellent tutorial](https://javascript.info) to fill any gaps in my knowledge/understanding.
-
-# 👉 My projects...
-
-During my time at King's, I've had the opportunity to work with a lot of great teams and a lot of our projects feature on here. You can find any projects done at King's on my [assignments](https://github.com/toggysmith/toggysmith/blob/main/assignments.md) page. I also have many of my own projects; I'm still learning and would appreciate any feedback. I've included some of my favourite projects below:
-
-- [Predator and Prey Simulation](https://github.com/toggysmith/predator-and-prey-simulation)
-- [Circle Dodger](https://github.com/toggysmith/Circle-Dodger)
-- [3D Terrain Generator](https://github.com/toggysmith/3D-Terrain-Generator)
-- [2D Terrain Generator](https://github.com/toggysmith/2D-Terrain-Generator)
-- [Boids Simulation](https://github.com/toggysmith/Boids-Simulation)
