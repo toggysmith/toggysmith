@@ -9,7 +9,7 @@ I'm an aspiring software developer and undergraduate student at King's College L
 # 👉 I'm working on...
 
 - [Pomobyte](https://pomobyte.com)
-- A Discord-like chat app called Loqui.
+- You can find my other projects [here](https://github.com/toggysmith/toggysmith/blob/main/Projects.md).
 
 # 👉 I'm learning...
 
