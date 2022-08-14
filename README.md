@@ -13,4 +13,5 @@ I'm an aspiring software developer and undergraduate student at King's College L
 
 # 👉 I'm learning...
 
-- JavaScript from scratch using [this excellent tutorial](https://javascript.info) to fill any gaps in my knowledge/understanding.
+- React by creating projects like [Pomobyte](https://pomobyte.com).
+- C++ via the wonderful tutorials at [learncpp](https://www.learncpp.com/).
