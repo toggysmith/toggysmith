@@ -4,7 +4,7 @@
 
 Hello! 👋 I'm Toggy Smith!
 
-I'm an aspiring software developer and undergraduate student at King's College London studying Computer Science with a Year in Industry (BSc). I have a strong passion for learning and although I want to pursue a career in software development, I'm interested in other computer science fields like data science, machine learning and game development.
+I'm an aspiring software developer and undergraduate student at King's College London studying BSc (Hons) Computer Science with Year in Industry. I have a strong passion for learning and although I want to pursue a career in software development, I'm interested in other computer science fields like data science, machine learning and game development.
 
 # 👉 I'm working on...
 
