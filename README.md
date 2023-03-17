@@ -1,3 +1,6 @@
+
+<p align="right"><a href="projects.md">I like to keep things organised. Check out an overview of my repos →</a></p>
+
 <div align="center">
 	<br />
 	<img src="newHeader.svg" width="100%" />
