@@ -127,6 +127,7 @@ A confident and diligent student already attaining high grades on a computer sci
         <li>Implemented Google Analytics tracking.</li>
         <li>Used <strong>React</strong> with <strong>React Router</strong>, <strong>Framer Motion</strong>, <strong>React Spring</strong>, and <strong>Chakra UI</strong>.</li>
         <li>Learned how to host and deploy websites.</li>
+	<li>Redesigning this soon so the link may not work.</li>
       </ul>
     </td>
   </tr>
