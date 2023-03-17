@@ -1,7 +1,7 @@
 <div align="center">
-	<br>
-		<img src="header.svg" width="800">
-	<br>
+	<br />
+	<img src="newHeader.svg" />
+	<br />
 </div>
 
 # Hi, I'm Toggy 👋
