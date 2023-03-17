@@ -1,3 +1,9 @@
+<div align="center">
+	<br>
+		<img src="header.svg" width="800" height="400">
+	<br>
+</div>
+
 # Hi, I'm Toggy 👋
 
 A confident and diligent student already attaining high grades on a computer science degree at King’s College London, with experience working in fast-paced customer-facing positions, delivering high-quality software alone and as part of a team, and learning new tools and languages quickly.
