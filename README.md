@@ -3,7 +3,7 @@
 
 <div align="center">
 	<br />
-	<img src="newHeader.svg" width="100%" />
+	<a href="projects.md"><img src="newHeader.svg" width="100%" /></a>
 	<br />
 </div>
 
