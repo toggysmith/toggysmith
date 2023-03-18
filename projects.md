@@ -13,7 +13,7 @@
   <tr></tr>
   <tr>
     <td><strong>Meridio</strong><br/ ><i>Personal Project</i></td>
-    <td align="right" valign="top"><strong>March 2023 - Present</strong></td>
+    <td align="right" valign="top"><strong>March 2023 - Present<br /><a href="https://github.com/toggysmith/Meridio">Check out the repo →</a></strong></td>
   </tr>
   <tr>
     <td colspan="2">
