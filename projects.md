@@ -24,6 +24,19 @@
     </td>
   </tr>
   <tr>
+    <td><strong>Personal Website</strong><br/ ><i>Personal Project</i></td>
+    <td align="right" valign="top"><strong>April 2023<br /><a href="https://github.com/toggysmith/personal-website">Check out the repo →</a></strong></td>
+  </tr>
+  <tr>
+    <td colspan="2">
+      <ul>
+        <li>A personal website for showcasing my work and connecting with other people.</li>
+	<li><strong>Languages:</strong> TypeScript, HTML, CSS</li>
+	<li><strong>Frameworks:</strong> Next.js, Tailwind CSS</li>
+      </ul>
+    </td>
+  </tr>
+  <tr>
     <td><strong>Welkarn</strong><br/ ><i>Personal Project</i></td>
     <td align="right" valign="top"><strong>April 2023<br /><a href="https://github.com/toggysmith/Welkarn">Check out the repo →</a></strong></td>
   </tr>
