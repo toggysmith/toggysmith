@@ -12,6 +12,18 @@
 <table>
   <tr></tr>
   <tr>
+    <td><strong>Kino Banking System</strong><br/ ><i>Personal Project</i></td>
+    <td align="right" valign="top"><strong>April 2023<br /><a href="https://github.com/toggysmith/kino">Check out the repo →</a></strong></td>
+  </tr>
+  <tr>
+    <td colspan="2">
+      <ul>
+        <li>A mock banking system developed using C++17.</li>
+	<li><strong>Languages: </strong>C++</li>
+      </ul>
+    </td>
+  </tr>
+  <tr>
     <td><strong>Welkarn</strong><br/ ><i>Personal Project</i></td>
     <td align="right" valign="top"><strong>April 2023<br /><a href="https://github.com/toggysmith/Welkarn">Check out the repo →</a></strong></td>
   </tr>
