@@ -1,5 +1,5 @@
 
-<p align="right"><a href="projects.md">I like to keep things organised. Check out an overview of my repos →</a></p>
+<p align="right"><a href="https://github.com/toggysmith/toggysmith/wiki/Projects">I like to keep things organised. Check out an overview of my repos →</a></p>
 
 <div align="center">
 	<br />
