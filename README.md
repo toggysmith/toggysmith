@@ -3,7 +3,7 @@
 
 <div align="center">
 	<br />
-	<a href="projects.md"><img src="newHeader.svg" width="100%" /></a>
+	<a href="https://github.com/toggysmith/toggysmith/wiki/Projects"><img src="newHeader.svg" width="100%" /></a>
 	<br />
 </div>
 
