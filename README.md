@@ -1,9 +1,6 @@
-
-<p align="right"><a href="https://github.com/toggysmith/toggysmith/wiki/Projects">I like to keep things organised. Check out an overview of my repos →</a></p>
-
 <div align="center">
 	<br />
-	<a href="https://github.com/toggysmith/toggysmith/wiki/Projects"><img src="newHeader.svg" width="100%" /></a>
+	<img src="newHeader.svg" width="100%" />
 	<br />
 </div>
 
